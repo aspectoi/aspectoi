@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to enchance user interfaces.
 - 🎓 &nbsp; Studying Computer Science at level 3 national diploma level.
 - 💼 &nbsp; Currently freelancing and working on side projects.
 - 🌱 &nbsp; Learning more about Software Engineering.
